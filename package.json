@@ -1,0 +1,29 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "CRUD api for todo list",
+  "main": "index.js",
+  "dependenies": {
+    "express": "~4.0.0"
+  },
+  "scripts": {
+    "test": "echo\"Error,no test specified\"&&exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auvx/todoListApi.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "auvx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auvx/todoListApi/issues"
+  },
+  "homepage": "https://github.com/auvx/todoListApi#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
